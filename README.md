@@ -1,1 +1,1 @@
-My Project lvgl on STM32F103CBT6  aaa
+My Project lvgl graphic library at STM32F103C8T6 BluePill board.
